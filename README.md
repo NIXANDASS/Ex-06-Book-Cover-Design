@@ -126,9 +126,9 @@ Write HTML and CSS Code for designing book cover page and execute them.
 ```
 
 ## Output:
-![Output](./o1.png)
+![Output](o1.png)
 
-![Output](./VALID2.png)
+![Output](VALID2.png)
 
 ## Result:
 The program for designing book cover page using HTML and CSS is executed.
